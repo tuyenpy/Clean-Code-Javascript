@@ -4,6 +4,7 @@
 //                                (false) --> {console.log(item); return}                 
 
 const arr = [[[["value1"], "value2",[[["value3", [[[["value4", ["value5"]]]]]]]]]]];
+// const arr1 = 123;
 
 const checkArr = (arr) => {// fn check array
   if (Array.isArray(arr)) {
@@ -16,6 +17,7 @@ const checkArr = (arr) => {// fn check array
       }
     } )
   }
+  console.log(arr);
 }
 
 checkArr(arr);
