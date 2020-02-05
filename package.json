@@ -1,0 +1,22 @@
+{
+  "name": "cleancodejs",
+  "version": "1.0.0",
+  "description": "Learn JS step by step!",
+  "main": "deepNesting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuyenpy/testCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuyenpy/testCode/issues"
+  },
+  "homepage": "https://github.com/tuyenpy/testCode#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
