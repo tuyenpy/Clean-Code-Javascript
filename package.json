@@ -19,7 +19,7 @@
   "homepage": "https://github.com/tuyenpy/testCode#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "readline-sync": "^1.4.10"
   }
 }
